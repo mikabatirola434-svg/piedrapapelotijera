@@ -1,0 +1,16 @@
+# Normalizacion automatica de finales de linea
+* text=auto
+
+# Codigo fuente C++
+*.cpp text eol=lf
+*.h text eol=lf
+*.hpp text eol=lf
+
+# Archivos de texto y documentacion
+*.txt text eol=lf
+*.md text eol=lf
+
+# Archivos binarios
+*.pdf binary
+*.exe binary
+*.out binary
