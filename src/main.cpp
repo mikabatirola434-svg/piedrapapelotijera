@@ -1,7 +1,7 @@
 /*
    ====================================================================
    Materia: Laboratorio de Programacion (LPR) - 5to Año
-   Institucion: E.E.S.T. N° 100 "Toy Story" - Vicente Lopez
+   Institución: "Escuela de Educación Técnica N.° 1 "Eduardo Ader"" - Vicente López
    Archivo: src/main.cpp
    Actividad 7: Piedra, Papel o Tijera + Persistencia en Disco
    ====================================================================
