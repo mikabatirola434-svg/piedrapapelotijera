@@ -1,0 +1,4 @@
+1,mikab,Papel,Papel,Empate
+2,lucas,Tijera,Papel,Victoria
+3,oli,Piedra,Tijera,Victoria
+4,luz,Papel,Papel,Empate
