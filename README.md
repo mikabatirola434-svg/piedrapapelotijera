@@ -1,4 +1,4 @@
-# 🎮 Piedra, Papel o Tijera
+#  Piedra, Papel o Tijera
 
 **Institución:** "Escuela de Educación Técnica N.° 1 "Eduardo Ader"" - Vicente López 
 **Materia:** Laboratorio de Programación (LPR)  
@@ -6,13 +6,13 @@
 **Actividad:** 7 — Mini juego con persistencia en disco  
 **Año:** 2026
 
-## 📌 Descripción
+##  Descripción
 
 Este proyecto consiste en desarrollar un juego de Piedra, Papel o Tijera en C++. El jugador compite contra la inteligencia artificial (IA), que elige una opción al azar.
 
 El programa permite jugar partidas, consultar el historial y guardar los resultados en un archivo de texto para conservarlos al cerrar el programa.
 
-## 🎯 Objetivos
+##  Objetivos
 
 - Aplicar estructuras (`struct`) para organizar los datos.
 - Utilizar funciones para organizar el código.
@@ -20,14 +20,14 @@ El programa permite jugar partidas, consultar el historial y guardar los resulta
 - Usar `ios::app` para agregar partidas sin borrar las anteriores.
 - Comprender la persistencia de datos en disco.
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - C++
 - GCC / G++
 - Visual Studio Code
 - Git y GitHub
 
-## ▶️ Compilación y ejecución
+##  Compilación y ejecución
 
 Compilar desde la carpeta principal del proyecto:
 
@@ -41,7 +41,7 @@ Ejecutar en Windows:
 .\src\piedrapapelotijera.exe
 ```
 
-## 📂 Estructura del proyecto
+##  Estructura del proyecto
 
 ```text
 piedrapapelotijera/
@@ -58,13 +58,13 @@ piedrapapelotijera/
 └── capturas/
 ```
 
-## 💾 Persistencia de datos
+##  Persistencia de datos
 
 Las partidas se guardan en `src/historial_partidas.txt`. Cada registro contiene el ID de la partida, el nombre del jugador, las elecciones y el resultado, separados por comas.
 
 El programa utiliza `ios::app` para conservar los registros anteriores y agregar las nuevas partidas al final del archivo.
 
-## 📸 Capturas
+##  Capturas
 
 En la carpeta `capturas/` se guardan las evidencias del funcionamiento del juego y del historial almacenado en disco.
 
