@@ -68,6 +68,6 @@ El programa utiliza `ios::app` para conservar los registros anteriores y agregar
 
 En la carpeta `capturas/` se guardan las evidencias del funcionamiento del juego y del historial almacenado en disco.
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto utiliza la licencia MIT. Para consultar sus condiciones, revisar el archivo `LICENSE`.
